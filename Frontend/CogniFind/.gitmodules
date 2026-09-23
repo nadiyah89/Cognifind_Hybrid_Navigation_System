@@ -1,0 +1,4 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/1nayat/Cognifind_Backend2.git
+	branch = master
