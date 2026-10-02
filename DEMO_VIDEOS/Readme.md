@@ -1,4 +1,4 @@
-### 🎥 Project Demo
+###  Project Demo
 
 Watch the Cognifind demos showcasing the key functionality of the application:
 
