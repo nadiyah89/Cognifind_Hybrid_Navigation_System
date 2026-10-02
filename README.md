@@ -8,20 +8,20 @@ It combines outdoor map-based navigation with **BLE beacon-based indoor position
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌍 **Outdoor Navigation** — Navigate between locations across the campus.
-- 🏢 **Indoor Navigation** — Navigate to rooms, labs, offices, and other mapped indoor locations.
-- 📡 **BLE Beacon Positioning** — BLE beacons installed inside buildings are used for indoor positioning.
-- 🔄 **Outdoor → Indoor Navigation** — Continue navigation from the campus area into a building.
-- 🏫 **Cross-Building Navigation** — Navigate between different campus buildings.
-- 🔎 **Location Search** — Search for mapped campus destinations.
-- 📍 **Real-Time Positioning** — Track and update the user's position during navigation.
-- 🧭 **Shortest-Path Navigation** — Routes are calculated using **Dijkstra's algorithm**.
+-  **Outdoor Navigation** — Navigate between locations across the campus.
+-  **Indoor Navigation** — Navigate to rooms, labs, offices, and other mapped indoor locations.
+-  **BLE Beacon Positioning** — BLE beacons installed inside buildings are used for indoor positioning.
+-  **Outdoor → Indoor Navigation** — Continue navigation from the campus area into a building.
+-  **Cross-Building Navigation** — Navigate between different campus buildings.
+-  **Location Search** — Search for mapped campus destinations.
+-  **Real-Time Positioning** — Track and update the user's position during navigation.
+-  **Shortest-Path Navigation** — Routes are calculated using **Dijkstra's algorithm**.
 
 ---
 
-## 🏗️ How It Works
+##  How It Works
 
 CogniFind uses different positioning and navigation mechanisms depending on the environment.
 
@@ -57,7 +57,7 @@ This enables navigation to continue after entering a building instead of stoppin
 
 ---
 
-## 🧠 Navigation
+##  Navigation
 
 CogniFind uses **Dijkstra's shortest-path algorithm** for both outdoor and indoor route calculation.
 
@@ -71,7 +71,7 @@ The algorithm determines the shortest available path based on the defined route 
 
 ---
 
-## 📡 Indoor Positioning with BLE Beacons
+##  Indoor Positioning with BLE Beacons
 
 BLE beacons are placed at known positions inside campus buildings.
 
@@ -93,7 +93,7 @@ BLE positioning helps overcome the limitations of GPS inside buildings.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - Flutter
@@ -115,7 +115,7 @@ BLE positioning helps overcome the limitations of GPS inside buildings.
 
 ---
 
-## 📱 Application Architecture
+##  Application Architecture
 
 Key Flutter components include:
 
@@ -130,7 +130,7 @@ Key Flutter components include:
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 ### Outdoor ↔ Indoor Navigation
 
@@ -142,7 +142,7 @@ https://github.com/user-attachments/assets/9de58f8b-51a6-45bd-94fc-68a32885c0dc
 
 ---
 
-## 👥 Team
+##  Team
 
 **CogniFind** was developed by:
 
@@ -154,7 +154,7 @@ A collaborative team project with contributions across the application, navigati
 
 ---
 
-## 📌 Project
+##  Project
 
 **CogniFind — Smart Campus Navigation**
 
