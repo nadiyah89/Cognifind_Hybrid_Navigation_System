@@ -7,5 +7,5 @@ Watch the Cognifind demos showcasing the key functionality of the application:
 
 2. **Cross-Building**
    
-   Indoor -> Outdoor -> Indoor 
+   **Indoor -> Outdoor -> Indoor**
    [▶️ Watch Demo](https://github.com/user-attachments/assets/9de58f8b-51a6-45bd-94fc-68a32885c0dc)
