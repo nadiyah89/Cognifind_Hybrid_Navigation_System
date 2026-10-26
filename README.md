@@ -6,7 +6,7 @@ CogniFind is a **smart campus navigation system** that provides **outdoor and in
 
 It combines outdoor map-based navigation with **BLE beacon-based indoor positioning** and graph-based route calculation, allowing users to navigate from an outdoor location into a building and between different campus buildings.
 
----
+--- 
 
 ##  Features
 
